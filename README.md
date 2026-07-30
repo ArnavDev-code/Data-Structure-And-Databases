@@ -31,4 +31,5 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
