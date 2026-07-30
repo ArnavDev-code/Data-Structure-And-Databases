@@ -24,3 +24,11 @@ This repository contains my solutions to problems from the NeetCode roadmap, foc
 Consistently solving problems and pushing solutions 🚀
 
 ⭐ If you find this helpful, consider giving a star!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0175-combine-two-tables/) | Easy |
+<!---LeetCode Topics End-->
