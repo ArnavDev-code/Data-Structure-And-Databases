@@ -32,5 +32,6 @@ Consistently solving problems and pushing solutions 🚀
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0176-second-highest-salary/) | Medium |
+| [0584-find-customer-referee](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0584-find-customer-referee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
