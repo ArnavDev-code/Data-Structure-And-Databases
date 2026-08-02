@@ -36,4 +36,12 @@ Consistently solving problems and pushing solutions 🚀
 | [0595-big-countries](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0704-binary-search/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
