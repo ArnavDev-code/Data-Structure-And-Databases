@@ -43,5 +43,10 @@ Consistently solving problems and pushing solutions 🚀
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0704-binary-search/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
