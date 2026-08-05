@@ -1,6 +1,6 @@
 # 🚀 DSA Solutions
 
-This repository contains my solutions to problems from the NeetCode roadmap, focused on improving problem-solving skills and preparing for coding interviews.
+This repository contains my solutions to problems from the Leetcode, focused on improving problem-solving skills and preparing for coding interviews.
 
 ## 👨‍💻 About Me
 
@@ -8,16 +8,6 @@ This repository contains my solutions to problems from the NeetCode roadmap, foc
 - 💻 Interested in Data Science & Analysis
 - 📍 India
 - 🎯 Goal: Crack data based company interviews
-
-## 📊 Progress
-
-- Total Problems Solved: 16*
-- Easy: 5
-- Medium: 10
-- Hard: 1
-
-✔️ Currently Solving: Arrays & Hashing  
-✔️ Next Target: Trees & Graphs
 
 ## 📈 Activity
 
