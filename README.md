@@ -5,7 +5,7 @@ This repository contains my solutions to problems from the Leetcode, focused on 
 ## 👨‍💻 About Me
 
 - 🎓 BTech CSE (Cybersecurity)
-- 💻 Interested in Data Science & Analysis
+- 💻 Interested in Data Science & Analytics
 - 📍 India
 - 🎯 Goal: Crack data based company interviews
 
