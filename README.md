@@ -40,6 +40,7 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0704-binary-search](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0704-binary-search/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -69,4 +70,20 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0202-happy-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
