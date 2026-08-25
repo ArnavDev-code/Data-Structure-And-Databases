@@ -43,6 +43,7 @@ Consistently solving problems and pushing solutions 🚀
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0162-find-peak-element/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -50,6 +51,7 @@ Consistently solving problems and pushing solutions 🚀
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0162-find-peak-element/) | Medium |
 | [0278-first-bad-version](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0278-first-bad-version/) | Easy |
