@@ -26,6 +26,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0577-employee-bonus](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0595-big-countries/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/1075-project-employees-i/) | Easy |
