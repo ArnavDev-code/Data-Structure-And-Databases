@@ -23,6 +23,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0175-combine-two-tables](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0176-second-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0197-rising-temperature/) | Easy |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0595-big-countries/) | Easy |
