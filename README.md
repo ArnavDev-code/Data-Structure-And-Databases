@@ -128,6 +128,7 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0022-generate-parentheses/) | Medium |
+| [0058-length-of-last-word](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0058-length-of-last-word/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
