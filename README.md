@@ -54,6 +54,7 @@ Consistently solving problems and pushing solutions 🚀
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0162-find-peak-element/) | Medium |
@@ -127,6 +128,7 @@ Consistently solving problems and pushing solutions 🚀
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0022-generate-parentheses/) | Medium |
 | [0058-length-of-last-word](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0058-length-of-last-word/) | Easy |
 ## Dynamic Programming
@@ -141,4 +143,8 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0022-generate-parentheses/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
