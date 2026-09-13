@@ -84,6 +84,7 @@ Consistently solving problems and pushing solutions 🚀
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0009-palindrome-number/) | Easy |
 | [0202-happy-number](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0202-happy-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
