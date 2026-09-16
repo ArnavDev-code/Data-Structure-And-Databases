@@ -91,6 +91,7 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0202-happy-number/) | Easy |
@@ -136,6 +137,7 @@ Consistently solving problems and pushing solutions 🚀
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0022-generate-parentheses/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0058-length-of-last-word/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -153,4 +155,20 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0014-longest-common-prefix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
