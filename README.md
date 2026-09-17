@@ -92,6 +92,7 @@ Consistently solving problems and pushing solutions 🚀
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0061-rotate-list](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0202-happy-number/) | Easy |
@@ -122,6 +123,7 @@ Consistently solving problems and pushing solutions 🚀
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0061-rotate-list](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0206-reverse-linked-list/) | Easy |
