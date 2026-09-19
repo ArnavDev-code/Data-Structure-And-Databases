@@ -91,6 +91,7 @@ Consistently solving problems and pushing solutions 🚀
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0061-rotate-list/) | Medium |
@@ -139,6 +140,7 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -146,6 +148,7 @@ Consistently solving problems and pushing solutions 🚀
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0022-generate-parentheses/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -179,4 +182,8 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
