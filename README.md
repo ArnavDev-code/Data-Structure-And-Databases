@@ -86,6 +86,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0049-group-anagrams](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0202-happy-number/) | Easy |
+| [0242-valid-anagram](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@ Consistently solving problems and pushing solutions 🚀
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0242-valid-anagram](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0242-valid-anagram/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +155,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0058-length-of-last-word/) | Easy |
+| [0242-valid-anagram](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
