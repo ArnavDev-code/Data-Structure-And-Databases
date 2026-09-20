@@ -58,6 +58,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0014-longest-common-prefix](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0049-group-anagrams](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0049-group-anagrams/) | Medium |
 | [0162-find-peak-element](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -82,6 +83,7 @@ Consistently solving problems and pushing solutions 🚀
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0202-happy-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -114,6 +116,7 @@ Consistently solving problems and pushing solutions 🚀
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -148,6 +151,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0014-longest-common-prefix](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0058-length-of-last-word/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Dynamic Programming
