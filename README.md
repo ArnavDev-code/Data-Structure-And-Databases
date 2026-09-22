@@ -95,6 +95,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0009-palindrome-number](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0067-add-binary/) | Easy |
 | [0202-happy-number](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0202-happy-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -157,6 +158,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0067-add-binary/) | Easy |
 | [0242-valid-anagram](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Dynamic Programming
@@ -208,4 +210,12 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
