@@ -61,6 +61,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0036-valid-sudoku](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0066-plus-one/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0162-find-peak-element](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -118,6 +119,7 @@ Consistently solving problems and pushing solutions 🚀
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -224,4 +226,16 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0036-valid-sudoku/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
