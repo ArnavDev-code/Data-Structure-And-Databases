@@ -55,6 +55,7 @@ Consistently solving problems and pushing solutions 🚀
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -70,6 +71,7 @@ Consistently solving problems and pushing solutions 🚀
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0162-find-peak-element/) | Medium |
@@ -120,6 +122,7 @@ Consistently solving problems and pushing solutions 🚀
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Sorting
