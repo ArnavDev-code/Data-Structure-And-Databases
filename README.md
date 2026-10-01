@@ -68,6 +68,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0704-binary-search](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0704-binary-search/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0141-linked-list-cycle](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Math
@@ -210,6 +212,7 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
