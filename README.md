@@ -66,6 +66,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0118-pascals-triangle](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0118-pascals-triangle/) | Easy |
 | [0162-find-peak-element](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -94,6 +95,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0036-valid-sudoku](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -128,11 +130,13 @@ Consistently solving problems and pushing solutions 🚀
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0169-majority-element](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0242-valid-anagram/) | Easy |
@@ -224,6 +228,7 @@ Consistently solving problems and pushing solutions 🚀
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -249,4 +254,8 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
