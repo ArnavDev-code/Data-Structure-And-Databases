@@ -25,6 +25,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0181-employees-earning-more-than-their-managers](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0183-customers-who-never-order/) | Easy |
+| [0196-delete-duplicate-emails](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0197-rising-temperature/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
