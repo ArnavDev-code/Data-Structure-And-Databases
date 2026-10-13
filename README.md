@@ -37,6 +37,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0610-triangle-judgement](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0620-not-boring-movies/) | Easy |
+| [1045-customers-who-bought-all-products](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/1075-project-employees-i/) | Easy |
