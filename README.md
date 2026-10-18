@@ -182,6 +182,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0005-longest-palindromic-substring](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0049-group-anagrams/) | Medium |
@@ -202,6 +203,7 @@ Consistently solving problems and pushing solutions 🚀
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0022-generate-parentheses/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -269,4 +271,8 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0169-majority-element/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
