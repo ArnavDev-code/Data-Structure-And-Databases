@@ -88,6 +88,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0004-median-of-two-sorted-arrays](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0278-first-bad-version/) | Easy |
@@ -119,6 +120,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0013-roman-to-integer](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0202-happy-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -275,4 +277,8 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0020-valid-parentheses/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
