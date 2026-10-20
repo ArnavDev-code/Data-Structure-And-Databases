@@ -121,6 +121,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0066-plus-one](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0202-happy-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -197,6 +198,7 @@ Consistently solving problems and pushing solutions 🚀
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0022-generate-parentheses/) | Medium |
+| [0070-climbing-stairs](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0118-pascals-triangle/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -281,4 +283,8 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0069-sqrtx/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
