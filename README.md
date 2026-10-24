@@ -73,6 +73,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0066-plus-one/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0118-pascals-triangle/) | Easy |
@@ -208,6 +209,7 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0022-generate-parentheses/) | Medium |
+| [0051-n-queens](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0051-n-queens/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,4 +293,8 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0070-climbing-stairs/) | Easy |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
