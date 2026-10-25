@@ -72,6 +72,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0036-valid-sudoku/) | Medium |
+| [0042-trapping-rain-water](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0066-plus-one/) | Easy |
@@ -133,6 +134,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0005-longest-palindromic-substring](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0042-trapping-rain-water](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -203,6 +205,7 @@ Consistently solving problems and pushing solutions 🚀
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0118-pascals-triangle/) | Easy |
 ## Backtracking
@@ -285,6 +288,7 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0042-trapping-rain-water/) | Hard |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,4 +301,8 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0051-n-queens/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
