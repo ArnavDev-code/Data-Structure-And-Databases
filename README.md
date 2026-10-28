@@ -69,6 +69,7 @@ Consistently solving problems and pushing solutions 🚀
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0014-longest-common-prefix/) | Easy |
+| [0031-next-permutation](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0036-valid-sudoku/) | Medium |
@@ -134,6 +135,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0005-longest-palindromic-substring](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0141-linked-list-cycle/) | Easy |
