@@ -79,6 +79,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0066-plus-one](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0066-plus-one/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0118-pascals-triangle/) | Easy |
+| [0136-single-number](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0169-majority-element/) | Easy |
@@ -262,6 +263,7 @@ Consistently solving problems and pushing solutions 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0067-add-binary/) | Easy |
+| [0136-single-number](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0136-single-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
