@@ -125,6 +125,7 @@ Consistently solving problems and pushing solutions 🚀
 | [0009-palindrome-number](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0069-sqrtx/) | Easy |
@@ -262,6 +263,7 @@ Consistently solving problems and pushing solutions 🚀
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/0136-single-number/) | Easy |
 ## Simulation
