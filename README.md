@@ -64,6 +64,7 @@ Consistently solving problems and pushing solutions 🚀
 | [1789-primary-department-for-each-employee](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1907-count-salary-categories](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/1934-confirmation-rate/) | Medium |
+| [1978-employees-whose-manager-left-the-company](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ArnavDev-code/Data-Structure-And-Databases/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Array
 | Problem Name | Difficulty |
